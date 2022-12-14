@@ -4,6 +4,8 @@
 
 **Technology**: Unity game engine , Sharp3D modelling software, TouchDesigner visual programming language, Audacity audio editor, C# programming language
 
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/background.png)
+
 ### Artist Statement
 
 The renaissance of scientific interest in psychedelics uncovered some fascinating connections between the brain and the mind. Scientists hope psychedelics can help us unravel some of the mysteries of consciousness. A peer-reviewed study in 2006 showed that a high, safely administered dose of psilocybin can stimulate mystical experiences - transcending one’s identification with the physical states and ego, as well as a sense of connection to nature and the universe at large.
