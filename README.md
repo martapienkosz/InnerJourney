@@ -12,15 +12,21 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 - Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
 - Pollen, M. (2018). How to change your mind. London: Penguin Press.
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace1.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch1.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch2.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch3.png)
 
-### Artist Statement
+### Sketches
+
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
 
 
 
 ### Architecture
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/galleryspace.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace1.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace2.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace3.png)
@@ -38,11 +44,16 @@ The multi-sensory art exhibits scattered around this space stimulate some of the
 
 #### Poem 1. The Ocean and Self
 
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/ocean.3.png)
+
 *"Then there are days like this. Where the fog of chaos clears - here I see all the truths that have always been right in front of me. What I am, what they are, the things we’ve done. It’s all laid out in front of me - the perfect story. I was once a God. I treaded lightly with care for the self - assuring the breath of my divinity was always able.
 Listening is wonderful. Open ears and an open heart to absorb the tunes of the world.
 The internal world is an ever shifting ocean. The tides as moments of being. The simplest things - step, direction, movement, pattern - these become the turnings of the water. We cannot move entire oceans but we can move the direction of the tides - moments of being carefully conducted … and slowly you come to realize that you are in a completely different ocean."*
 
+
 #### Poem 2. Cosmic Exhaustion
+
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/spiral.3.png)
 
 *"A constant search for something that doesn’t exist. It becomes the only thing that’s real. It is so real that no one can see it, not even me.
 Where do I find you?
@@ -71,6 +82,8 @@ This is where you exist"*
 
 #### Poem 3. Pirates
 
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/pirates.3.png)
+
 *"Usually pirates are lost at sea. I’m not.
 Sometimes the sea becomes so endless, so vast - that one must pretend. It is unfathomable to the mind that one can be in something so big, so blue and not be lost.
 So, I play games. I throw my compass overboard. Forget about the drawer of extras. A temporary aphasia. Go into that golden slumber.
@@ -82,7 +95,10 @@ I wake up - found!
 Tightly bound into flesh, consciousness, awakened into the limits of mortality.
 The golden slumber, only a faint memory of becoming."*
 
+
 #### Poem 4. The wonders
+
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
 
 *One must not get lost in the dream. Although there is much to dream of, one must stay grounded in this reality. There’s an energy in this city that makes me feel like I’m in another dimension - another planet. A life that isn’t mine. It’s difficult to describe. It doesn’t matter. Because still, I keep living. I’m alive. I have the capacity to love. I can move my body. I have food. People love me. This is living. The only thing I can do is love until I can’t. This is the function of human beings. You just got a tattoo of the world. It is to remember that you can have the entire world in your arms. Likewise, the entire world can hold you. That’s how it is. Keep discovering. Keep searching. Keep loving. Keep fighting. Keep living."*
 
