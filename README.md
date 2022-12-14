@@ -12,14 +12,19 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 - Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
 - Pollen, M. (2018). How to change your mind. London: Penguin Press.
 
-![img](https://github.com/martapienkosz/connectionslab/blob/main/project3/dcmt/coffe.png)
-Everything worked fine until I started to intensively add new "spheres", instances of the clay. Everything started to excessively lag.
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace1.png)
 
 ### Artist Statement
 
 
 
 ### Architecture
+
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace1.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace2.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace3.png)
+
 
 
 ### Demo
