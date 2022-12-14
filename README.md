@@ -1,7 +1,4 @@
-## InnerJourney
-### Virtual Art Gallery experience developed in Unity by Marta Pienkosz
- 
-## May 12 | Final Project: Artify
+## InnerJourney: Virtual Reality Multisensory Gallery experience
 
 ### Artist Statement
 
