@@ -18,6 +18,10 @@ Everything worked fine until I started to intensively add new "spheres", instanc
 ### Artist Statement
 
 
+
+### Architecture
+
+
 ### Demo
 **Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a video walkthrough of the VR experience.
 
@@ -32,32 +36,6 @@ The multi-sensory art exhibits scattered around this space stimulate some of the
 *"Then there are days like this. Where the fog of chaos clears - here I see all the truths that have always been right in front of me. What I am, what they are, the things we’ve done. It’s all laid out in front of me - the perfect story. I was once a God. I treaded lightly with care for the self - assuring the breath of my divinity was always able.
 Listening is wonderful. Open ears and an open heart to absorb the tunes of the world.
 The internal world is an ever shifting ocean. The tides as moments of being. The simplest things - step, direction, movement, pattern - these become the turnings of the water. We cannot move entire oceans but we can move the direction of the tides - moments of being carefully conducted … and slowly you come to realize that you are in a completely different ocean."*
-
-#### Poem 1. The Ocean and Self
-
-*"A constant search for something that doesn’t exist. It becomes the only thing that’s real. It is so real that no one can see it, not even me.
-Where do I find you?
-Every now and then it comes through the periphery.
-An endless stream of blues that only appears with closed eyes and a body deprived
-Rolling hills of golden wheat. The wind sweeps. The grain laughs and dances. We dance.
-Maybe I'll find you. Hopefully I don’t.
-Going upwards, up a thousand stairs. Up there you exist. I’m coming. I’ll lose my form.
-Searching through the boundless
-Where do I find you?
-How do I find you? There are no forms.
-Oh.
-You'll be a wonder next to all the other wonders in a place that doesn’t exist.
-I wonder, I wander
-Upwards, up 1,000 stairs
-This golden tower with its spirals.
-Beautifully endless!
-That place that doesn’t exist calling for me
-Fighting, striving towards that bright blue
-Then I realize it has always been here
-These 1,000 stairs do not exist, they are that place
-So here we marvel
-Marveling, Traveling, Wandering through this golden tower
-This is where you exist"*
 
 #### Poem 2. Cosmic Exhaustion
 
