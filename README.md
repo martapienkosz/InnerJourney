@@ -5,6 +5,7 @@
 **Technology**: Unity game engine , Sharp3D modelling software, TouchDesigner visual programming language, Audacity audio editor, C# programming language
 
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/bg.png)
+
 <br>
 
 ### Artist Statement
@@ -27,7 +28,7 @@ The gallery takes on an experimental shape inspired by Asif Khan's Serpentine Pa
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch2.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch3.png)
 
-
+<br>
 
 ### Architecture
 Ambient lighting played a key role in recreating the mystical atmosphere that draws viewers' attention to the works of art. Due to the irregularity of the space and the prevailing darkness, to improve the users' sense of orientation, dimly illuminating elements were placed at the junction of the semi-transparent curtains and the floor.
@@ -37,15 +38,18 @@ Ambient lighting played a key role in recreating the mystical atmosphere that dr
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace2.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace3.png)
 
+<br>
 
 ### Artworks
 The works scattered around the space were created in Photoshop and modified in Touchdesigner. The program I created generated an interesting texture that adheres to psychedelic aesthetics.
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/touchdesigner.png)
 
-
+<br>
 
 ### Demo
 Download the [release](https://github.com/martapienkosz/InnerJourney/releases/tag/V1.0.0-InnerJourney) and play the project on your VR headset OR watch a [video walkthrough](https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link) of the VR experience.
+
+<br>
 
 #### Introduction
 
@@ -54,6 +58,7 @@ The multi-sensory art exhibits scattered around this space stimulate some of the
 
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/ui.png)
 
+<br>
 
 #### Poem 1. The Ocean and Self
 
@@ -63,6 +68,7 @@ The multi-sensory art exhibits scattered around this space stimulate some of the
 Listening is wonderful. Open ears and an open heart to absorb the tunes of the world.
 The internal world is an ever shifting ocean. The tides as moments of being. The simplest things - step, direction, movement, pattern - these become the turnings of the water. We cannot move entire oceans but we can move the direction of the tides - moments of being carefully conducted … and slowly you come to realize that you are in a completely different ocean."*
 
+<br>
 
 #### Poem 2. Cosmic Exhaustion
 
@@ -92,6 +98,7 @@ So here we marvel
 Marveling, Traveling, Wandering through this golden tower
 This is where you exist"*
 
+<br>
 
 #### Poem 3. Pirates
 
@@ -108,6 +115,7 @@ I wake up - found!
 Tightly bound into flesh, consciousness, awakened into the limits of mortality.
 The golden slumber, only a faint memory of becoming."*
 
+<br>
 
 #### Poem 4. The wonders
 
