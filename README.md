@@ -30,11 +30,17 @@ The gallery takes on an experimental shape inspired by Asif Khan's Serpentine Pa
 
 
 ### Architecture
+Ambient lighting played a key role in recreating the mystical atmosphere that draws viewers' attention to the works of art. Due to the irregularity of the space and the prevailing darkness, to improve the users' sense of orientation, dimly illuminating elements were placed at the junction of the semi-transparent curtains and the floor.
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/galleryspace.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/unity.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace1.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace2.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/gallerySpace3.png)
+
+
+### Artworks
+The works scattered around the space were created in Photoshop and modified in Touchdesigner. The program I created generated an interesting texture that adheres to psychedelic aesthetics.
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/touchdesigner.png)
 
 
 
