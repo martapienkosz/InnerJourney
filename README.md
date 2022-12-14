@@ -21,6 +21,7 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 
 
 ### Sketches
+The gallery takes on an experimental shape inspired by Asif Khan's Serpentine Pavilion. Users are encouraged to explore the artworks in any order and move freely through the space through winding corridors.
 
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch1.png)
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch2.png)
