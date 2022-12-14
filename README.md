@@ -12,15 +12,13 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 - Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
 - Pollen, M. (2018). How to change your mind. London: Penguin Press.
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch1.png)
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch2.png)
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch3.png)
+
 
 ### Sketches
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch1.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch2.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/sketch3.png)
 
 
 
@@ -34,12 +32,14 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 
 
 ### Demo
-**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a video walkthrough of the VR experience.
+**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. [Here](https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link) is the release. If you don’t have a VR headset right now, watch a video walkthrough of the VR experience.
 
 #### Introduction
 
 *"Step into a world beyond human consciousness. The renaissance of scientific interest in psychedelics hopes to unravel the mysteries of consciousness. Psychedelics are capable of inducing mystical-like sensations, transcending one’s identification with the physical self, and a sense of connection to nature and the universe at large.
 The multi-sensory art exhibits scattered around this space stimulate some of the sensations that Lisette experienced during her psychedelic trips. You are encouraged to explore the space at your own pace and use the interactive card to activate the soundscapes."*
+
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/ui.png)
 
 
 #### Poem 1. The Ocean and Self
@@ -101,4 +101,3 @@ The golden slumber, only a faint memory of becoming."*
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/newyork.3.png)
 
 *One must not get lost in the dream. Although there is much to dream of, one must stay grounded in this reality. There’s an energy in this city that makes me feel like I’m in another dimension - another planet. A life that isn’t mine. It’s difficult to describe. It doesn’t matter. Because still, I keep living. I’m alive. I have the capacity to love. I can move my body. I have food. People love me. This is living. The only thing I can do is love until I can’t. This is the function of human beings. You just got a tattoo of the world. It is to remember that you can have the entire world in your arms. Likewise, the entire world can hold you. That’s how it is. Keep discovering. Keep searching. Keep loving. Keep fighting. Keep living."*
-
