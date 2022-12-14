@@ -1,4 +1,4 @@
-## Inner Journey. Multisensory Gallery experience in Virtual Reality
+## Inner Journey. Virtual Reality Art Gallery
 
 **Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a [video walkthrough]((https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link)) of the VR experience.
 
