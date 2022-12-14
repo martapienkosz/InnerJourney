@@ -42,6 +42,7 @@ Ambient lighting played a key role in recreating the mystical atmosphere that dr
 
 ### Artworks
 The works scattered around the space were created in Photoshop and modified in Touchdesigner. The program I created generated an interesting texture that adheres to psychedelic aesthetics.
+
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/touchdesigner.png)
 
 <br>
