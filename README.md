@@ -5,6 +5,7 @@
 **Technology**: Unity game engine , Sharp3D modelling software, TouchDesigner visual programming language, Audacity audio editor, C# programming language
 
 ![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/bg.png)
+<br>
 
 ### Artist Statement
 
@@ -17,8 +18,7 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 **References:**
 - Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
 - Pollen, M. (2018). How to change your mind. London: Penguin Press.
-
-
+<br>
 
 ### Sketches
 The gallery takes on an experimental shape inspired by Asif Khan's Serpentine Pavilion. Users are encouraged to explore the artworks in any order and move freely through the space through winding corridors.
