@@ -4,7 +4,7 @@
 
 **Technology**: Unity game engine , Sharp3D modelling software, TouchDesigner visual programming language, Audacity audio editor, C# programming language
 
-![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/background.png)
+![img](https://github.com/martapienkosz/InnerJourney/blob/main/documentation/bg.png)
 
 ### Artist Statement
 
