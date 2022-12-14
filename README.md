@@ -39,7 +39,7 @@ The gallery takes on an experimental shape inspired by Asif Khan's Serpentine Pa
 
 
 ### Demo
-Download the [releas](https://github.com/martapienkosz/InnerJourney/releases/tag/V1.0.0-InnerJourney) and play the project on your VR headset OR watch a [video walkthrough](https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link) of the VR experience.
+Download the [release](https://github.com/martapienkosz/InnerJourney/releases/tag/V1.0.0-InnerJourney) and play the project on your VR headset OR watch a [video walkthrough](https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link) of the VR experience.
 
 #### Introduction
 
