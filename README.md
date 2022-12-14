@@ -1,5 +1,7 @@
 ## Inner Journey. Multisensory Gallery experience in Virtual Reality
 
+**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a [video walkthrough]((https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link)) of the VR experience.
+
 ### Artist Statement
 
 The renaissance of scientific interest in psychedelics uncovered some fascinating connections between the brain and the mind. Scientists hope psychedelics can help us unravel some of the mysteries of consciousness. A peer-reviewed study in 2006 showed that a high, safely administered dose of psilocybin can stimulate mystical experiences - transcending one’s identification with the physical states and ego, as well as a sense of connection to nature and the universe at large.
@@ -32,7 +34,7 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 
 
 ### Demo
-**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. [Here](https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link) is the release. If you don’t have a VR headset right now, watch a video walkthrough of the VR experience.
+**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a [video walkthrough]((https://drive.google.com/file/d/1ZIIJMNe-zOzGVMTNShJ06H054frvUH9d/view?usp=share_link)) of the VR experience.
 
 #### Introduction
 
