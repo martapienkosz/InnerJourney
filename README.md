@@ -1,4 +1,4 @@
-## InnerJourney: Virtual Reality Multisensory Gallery experience
+## Inner Journey. Multisensory Gallery experience in Virtual Reality
 
 ### Artist Statement
 
@@ -15,4 +15,14 @@ The virtual realm recreates some of the excessively inaccessible mystical sensat
 ![img](https://github.com/martapienkosz/connectionslab/blob/main/project3/dcmt/coffe.png)
 Everything worked fine until I started to intensively add new "spheres", instances of the clay. Everything started to excessively lag.
 
-**Learnings**: Getting familiar with A-Frame!
+### Artist Statement
+
+
+### Demo
+**Strongly Recomended** If you have a VR headset, do not hesitate to play our project on it. Here is the release. If you don’t have a VR headset right now, watch a video walkthrough of the VR experience.
+
+## Introduction
+
+*"Step into a world beyond human consciousness. The renaissance of scientific interest in psychedelics hopes to unravel the mysteries of consciousness. Psychedelics are capable of inducing mystical-like sensations, transcending one’s identification with the physical self, and a sense of connection to nature and the universe at large.*
+
+*The multi-sensory art exhibits scattered around this space stimulate some of the sensations that Lisette experienced during her psychedelic trips. You are encouraged to explore the space at your own pace and use the interactive card to activate the soundscapes."*
