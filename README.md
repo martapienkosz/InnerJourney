@@ -9,8 +9,8 @@ This VR experience documents some of Lisette’s manifestations of cosmic consci
 The virtual realm recreates some of the excessively inaccessible mystical sensations of psychedelic states. Taking advantage of this medium, the space takes users into an alternate reality of one’s own mind and provides a multisensory experience where monologues are supported by abstract visuals generated with TouchDesigner. The user explores the space through its winding corridors leading to semicircular rooms that both stimulate the spirit of exploration and give a sense of intimacy allowing the user to lose themselves in the freedom of their own mind. The headset fully disconnects them from reality.
 
 **References:**
-Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
-Pollen, M. (2018). How to change your mind. London: Penguin Press.
+- Griffiths, RR , Richards, WA , McCann, U. , Jesse, R. (2006) Psilocybin can occasion mystical experiences having substantial and sustained personal meaning and spiritual significance . Psychopharmacology (Berl) 187: 268-283.
+- Pollen, M. (2018). How to change your mind. London: Penguin Press.
 
 ![img](https://github.com/martapienkosz/connectionslab/blob/main/project3/dcmt/coffe.png)
 Everything worked fine until I started to intensively add new "spheres", instances of the clay. Everything started to excessively lag.
